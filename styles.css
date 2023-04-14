@@ -1,0 +1,96 @@
+section h1 {
+    display:flex;
+    justify-content: center;
+    font-family:serif;
+    color: rgb(233, 55, 10);
+    font-size: 35px;
+}
+
+ul{
+    list-style: none;
+    display: flex;
+    justify-content: center;
+}
+
+div { 
+    display: flex;
+    justify-content:space-around;
+    text-align: justify;
+    font-family:serif;
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+}
+
+.text-conteúdo{
+    display:;
+    justify-content:;
+    font-family:serif;
+    color: rgb(0, 0, 0);
+    font-size: 18px;
+}
+
+.marco-zero {
+    display: flex;
+    justify-content:center;
+    font-family:serif;
+    color: rgb(233, 58, 11);
+    font-size: 25px;
+}
+
+.text-conteúdo00 {
+    text-indent: 20px;
+    text-align:justify;
+    font-family:serif;
+    color: rgb(0, 0, 0);
+    font-size: 18px;
+    
+}
+
+    .title-história {
+    display: flex;
+    justify-content:center;
+    font-family:serif;
+    color: rgb(233, 58, 11);
+    font-size: 25px;
+}
+
+.text-conteúdo01 {
+    text-align: justify;
+    text-indent:20px;
+    font-family:serif;
+    color: rgb(0, 0, 0);
+    font-size: 18px;
+}
+
+ .restaurante {
+    display:flex;
+    justify-content: left;
+    font-family:serif;
+    color: rgb(3, 3, 3);
+    font-size: 25px;
+}
+
+.fotos{
+    display:flex;
+    justify-content: left;
+    font-family:serif;
+    color: rgb(3, 3, 3);
+    font-size: 25px;
+}
+
+.imagens-agrupadas00{
+    display:flex;
+    justify-content: space-around;
+}
+
+.imagens-agrupadas01{
+    display:flex;
+    justify-content:space-around;
+}
+
+.contact{
+    display:flex;
+    justify-content: space-around;
+}
+
+
